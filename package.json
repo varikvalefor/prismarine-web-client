@@ -24,7 +24,7 @@
     "web",
     "client"
   ],
-  "author": "PrismarineJS",
+  "author": "Romain Beaumont",
   "license": "MIT",
   "bin": {
     "prismarine-web-client": "./server.js"
